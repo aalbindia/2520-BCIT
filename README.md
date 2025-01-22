@@ -1,2 +1,6 @@
-﻿#This is my first commit of many to Github.
-#Throughout my college I will do my best to commit code that I've worked on, either academic or not into Github.
+My first commit for an academic class.
+- Throughout my college I will do my best to commit code that I've worked on, either academic or not into Github.
+- This will allow me to practice using external tools/ terminal commands to share and display my code
+
+
+Specifically for this course 2520: Developing Applications, this repository will only contain code from the course.
