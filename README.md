@@ -1,5 +1,5 @@
 My first commit for an academic class.
-- Throughout my college I will do my best to commit code that I've worked on, either academic or not into Github.
+- Throughout college I will do my best to commit code that I've worked on, either academic or not into Github.
 - This will allow me to practice using external tools/ terminal commands to share and display my code
 
 
