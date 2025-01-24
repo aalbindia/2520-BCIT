@@ -21,19 +21,22 @@ function processInput() {
             throw err('Folder has already been made');
             
         }
+        fs.writeFile(filePath, content, (err) => {
+            if (err) throw err('File has already been made');
+            console.log('Content Saved')
+        
+        fs.appendFile(filePath, appendContent, (err) => {
+            if (err) throw err;
+            console.log('Distance has been added.');
+        })
+    });
 
     });
         
 
         
-    fs.writeFile(filePath, content, (err) => {
-            if (err) throw err('File has already been made');
-            console.log('Content Saved')
-        });
-        fs.appendFile(filePath, appendContent, (err) => {
-            if (err) throw err;
-            console.log('Distance has been added.')
-        } )
+  
+        
     
     }
 
