@@ -1,5 +1,0 @@
-10
-12
-20
-34
-The distance between your two points: (12, 34), (10, 20) is 14.142135623730951
