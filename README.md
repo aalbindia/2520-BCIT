@@ -4,3 +4,8 @@ My first commit for an academic class.
 
 
 Specifically for this course 2520: Developing Applications, this repository will only contain code from the course.
+
+**2025-01-23**
+- Content pushed calculates distance between x2, x1 and y2, y1 points.
+- Created own math functions to calculate distance
+- In the main.js includes code on creating, writing, and appending to a txt file inside a designated folder
